@@ -5,13 +5,8 @@ import type {
   CreateSalesOrder,
   UpdateSalesOrder,
 } from "@/types";
-import {
-  getAllSalesOrders,
-  getSalesOrderById,
-  createSalesOrder,
-  updateSalesOrder,
-  deleteSalesOrder,
-} from "@/services/api";
+import { createSalesOrder, deleteSalesOrder, getAllSalesOrders, getSalesOrderById, updateSalesOrder } from "@/services";
+
 
 // Initial state
 const initialState: SalesOrderState = {
