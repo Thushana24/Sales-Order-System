@@ -1,6 +1,6 @@
 
 import type { Item } from "@/types";
-import apiClient from "./Client";
+import apiClient from "./client";
 
 export const itemsApi = {
   getAll: async (): Promise<Item[]> => {
