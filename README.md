@@ -91,12 +91,13 @@ Frontend runs on: `http://localhost:3000`
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+<img width="1912" height="856" alt="image" src="https://github.com/user-attachments/assets/5ed54dd2-4ad8-4f64-b47d-cfde35e7f87b" />
+
 
 ## 👨‍💻 Developer
 
-[Your Name]  
-Internship Project - SPIL Labs (Pvt) Ltd.
+Thushana Sivarajah
+
 
 ## 📝 License
 
