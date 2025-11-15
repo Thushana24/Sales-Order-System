@@ -45,7 +45,7 @@ dotnet restore
 dotnet run
 ```
 
-Backend runs on: `https://localhost:7259`
+Backend runs on: `https://localhost:7058`
 
 ### Frontend Setup
 
