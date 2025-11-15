@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import type { Client, Item } from "@/types";
-import { getAllClients, getAllItems } from "@/services/api";
+import { getAllClients, getAllItems } from "@/services";
 
 /**
  * Custom hook to load clients and items data
